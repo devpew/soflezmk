@@ -13,10 +13,8 @@
 #
 ---
 include:
-  - board: nice_nano
-    variant: zmk
+  - board: nice_nano/zmk
     shield: sofle_left nice_view_adapter nice_view
-  - board: nice_nano
-    variant: zmk
+  - board: nice_nano/zmk
     shield: sofle_right nice_view_adapter nice_view
 
